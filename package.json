@@ -1,0 +1,1 @@
+{"name": "nanaji-website", "version": "1.0.0", "description": "A beautiful website created in Hindi for Nanaji with the best UI.", "scripts": {"start": "open index.html"}, "keywords": ["hindi", "nanaji", "website", "tailwind", "ui"]}
